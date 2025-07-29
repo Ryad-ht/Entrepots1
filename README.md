@@ -36,4 +36,4 @@ Ce projet est une première version d’une interface graphique légère de Ware
    ```bash
    git clone https://github.com/votre-organisation/wms-emplacement.git
    cd wms-emplacement
-
+![alt text](image.png)
