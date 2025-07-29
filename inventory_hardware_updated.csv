@@ -1,0 +1,61 @@
+Réf,Nom,Quantité,Emplacement
+P001,Écran Dell UltraSharp U2720Q,57,R1E1A
+P002,Onduleur APC Smart-UPS 1500VA,71,R1E1A
+P003,Imprimante Brother HL-L2370DW,47,R1E1A
+P004,Projet BenQ TH585,31,R1E1A
+P005,Disque SSD Samsung 970 EVO Plus 1TB,17,R1E1A
+P006,Serveur Dell PowerEdge R740,61,R2E2B
+P007,Souris sans fil Logitech MX Master 3,40,R2E2B
+P008,Disque SSD Samsung 970 EVO Plus 1TB,5,R2E2B
+P009,Projet BenQ TH585,23,R2E2B
+P010,Disque SSD Crucial MX500 500GB,13,R2E2B
+P011,Projecteur Optoma HD146X,30,R2E1B
+P012,Clavier Razer BlackWidow,76,R6E2A
+P013,Écran ASUS ProArt PA278QV,68,R4E1B
+P014,Onduleur CyberPower CP1500PFCLCD,27,R2E1B
+P015,Projecteur Epson EB-X41,50,R3E3A
+P016,Mémoire G.Skill Ripjaws 16GB,63,R6E1B
+P017,Mémoire Kingston 16GB DDR4,1,R5E4B
+P018,Mémoire G.Skill Ripjaws 16GB,54,R3E3A
+P019,Souris Razer DeathAdder V2,91,R4E2A
+P020,Clavier mécanique Logitech G Pro,86,R5E3A
+P021,Disque HDD Western Digital 4TB,91,R4E3A
+P022,Routeur Zyxel ATP100,33,R5E4B
+P023,Souris Razer DeathAdder V2,56,R6E2A
+P024,NAS Buffalo TeraStation 3410,83,R6E3B
+P025,Routeur Mikrotik RB4011,99,R5E4B
+P026,NAS Buffalo TeraStation 3410,46,R5E4A
+P027,Switch TP-Link JetStream T1700G-28T,75,R2E1A
+P028,Écran HP Z24n G2,13,R1E1A
+P029,Imprimante Brother HL-L2370DW,61,R3E4B
+P030,Serveur HP ProLiant DL380 Gen10,46,R2E4A
+P031,Carte réseau Intel I350-T4,65,R2E1B
+P032,"Ordinateur MacBook Pro 16""",97,R6E1B
+P033,Carte réseau Intel I350-T4,35,R4E1A
+P034,Onduleur CyberPower CP1500PFCLCD,2,R2E2B
+P035,Carte mère ASUS Prime X570-P,81,R2E3A
+P036,Casque Bose QuietComfort 35 II,83,R4E2B
+P037,Écran Dell UltraSharp U2720Q,34,R2E1B
+P038,Casque Bose QuietComfort 35 II,95,R1E1A
+P039,Projecteur Optoma HD146X,43,R3E2A
+P040,Carte réseau Intel I350-T4,8,R1E4B
+P041,Écran ASUS ProArt PA278QV,54,R2E4B
+P042,Switch TP-Link JetStream T1700G-28T,1,R3E4A
+P043,Projet BenQ TH585,89,R1E3A
+P044,Onduleur CyberPower CP1500PFCLCD,50,R6E1A
+P045,Écran ASUS ProArt PA278QV,61,R1E3A
+P046,Carte mère ASUS Prime X570-P,68,R2E4B
+P047,Switch TP-Link JetStream T1700G-28T,29,R5E2A
+P048,Station de travail HP Z4 G4,40,R4E4A
+P049,Disque SSD Crucial MX500 500GB,71,R1E3A
+P050,Carte mère ASUS Prime X570-P,62,R1E3A
+P051,Mémoire Corsair Vengeance 32GB,29,R6E4B
+P052,Onduleur APC Smart-UPS 1500VA,84,R1E2A
+P053,Switch Netgear ProSafe GC728X,58,R4E1A
+P054,Projecteur Epson EB-X41,39,R4E3A
+P055,Carte réseau Intel I350-T4,89,R5E1B
+P056,Mémoire Corsair Vengeance 32GB,71,R2E1B
+P057,Clavier Dell KB216,3,R3E1A
+P058,Projecteur Optoma HD146X,67,R6E2A
+P059,Switch TP-Link JetStream T1700G-28T,30,R5E2B
+P060,Souris HP X3000,99,R4E4A
